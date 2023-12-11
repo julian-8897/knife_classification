@@ -1,6 +1,6 @@
 # Ignore Test/Train folder
-/src/Test
-/src/Train
+/src/Test/
+/src/Train/
 
 # Ignore models folder
 /src/models/
