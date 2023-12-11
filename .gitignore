@@ -1,0 +1,15 @@
+# Ignore Test/Train folder
+/src/Test/Train/
+
+# Ignore models folder
+/src/models/
+
+# Ignore zip files
+*.zip
+
+# Ignore pycache
+__pycache__/
+
+# Ignore pdf files
+*.pdf
+
